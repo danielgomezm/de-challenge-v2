@@ -6,10 +6,10 @@ The ETL process corresponds to a program developed in Python, which reads each o
 ## Running the program
 To run the program, Python version 3 is required and you need to run:
 
-`> python english_premier_league.py`
+`python english_premier_league.py`
 
 ## Results
 I each output-file, we have:
-- standings: the standigns for each team of the season, presenting place, team, points and goal difference.
-- efectiveness: the ratio between shots on goal and goals scored.
-- goals against: the team with the most goals against.
+- **standings**: the standigns for each team of the season, presenting place, team, points and goal difference.
+- **efectiveness**: the ratio between shots on goal and goals scored.
+- **goals against**: the team with the most goals against.
