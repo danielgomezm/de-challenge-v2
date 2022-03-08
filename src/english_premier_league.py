@@ -3,14 +3,13 @@ import operator
 import os
 from Team import Team
 
-ids = ['0910', '1011', '1112', '1213', '1314', '1415', '1516', '1617', '1718', '1819']
+files = os.listdir('data')
 results = {}
 
 # seasons:
-for id in ids:
+for filename in files:
     teams = {}
-    season = 'season-' + id
-    filename = season + '_json.json'
+    season = filename[0:11]
     with open('data/' + filename) as file:
         data = json.load(file)
 
@@ -18,7 +17,6 @@ for id in ids:
             this_game = {}
             home_team = game['HomeTeam']
             away_team = game['AwayTeam']
-
 
             # home
             if home_team not in teams.keys():
