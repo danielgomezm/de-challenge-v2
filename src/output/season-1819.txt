@@ -1,0 +1,29 @@
+SEASON-1819:
+
+standings:
+	1: Man City: 98 (72)
+	2: Liverpool: 97 (67)
+	3: Chelsea: 72 (24)
+	4: Tottenham: 71 (28)
+	5: Arsenal: 70 (22)
+	6: Man United: 66 (11)
+	7: Wolves: 57 (1)
+	8: Everton: 54 (8)
+	9: Leicester: 52 (3)
+	10: West Ham: 52 (-3)
+	11: Watford: 50 (-7)
+	12: Crystal Palace: 49 (-2)
+	13: Newcastle: 45 (-6)
+	14: Bournemouth: 45 (-14)
+	15: Burnley: 40 (-23)
+	16: Southampton: 39 (-20)
+	17: Brighton: 36 (-25)
+	18: Cardiff: 34 (-35)
+	19: Fulham: 26 (-47)
+	20: Huddersfield: 16 (-54)
+
+efectiveness:
+	Arsenal: 0.43 [shots-on-target: 170, goals: 73]
+
+goals against:
+	Fulham: 81

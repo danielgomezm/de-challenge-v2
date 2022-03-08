@@ -91,4 +91,3 @@ for this_season in results.keys():
     output.write('\t' + results[this_season]['efectiveness'] + '\n')
     output.write('\ngoals against:\n')
     output.write('\t' + results[this_season]['goals_against'] + '\n')
-

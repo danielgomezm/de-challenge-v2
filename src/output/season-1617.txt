@@ -1,0 +1,29 @@
+SEASON-1617:
+
+standings:
+	1: Chelsea: 93 (52)
+	2: Tottenham: 86 (60)
+	3: Man City: 78 (41)
+	4: Liverpool: 76 (36)
+	5: Arsenal: 75 (33)
+	6: Man United: 69 (25)
+	7: Everton: 61 (18)
+	8: Southampton: 46 (-7)
+	9: Bournemouth: 46 (-12)
+	10: West Brom: 45 (-8)
+	11: West Ham: 45 (-17)
+	12: Leicester: 44 (-15)
+	13: Stoke: 44 (-15)
+	14: Crystal Palace: 41 (-13)
+	15: Swansea: 41 (-25)
+	16: Burnley: 40 (-16)
+	17: Watford: 40 (-28)
+	18: Hull: 34 (-43)
+	19: Middlesbrough: 28 (-26)
+	20: Sunderland: 24 (-40)
+
+efectiveness:
+	Chelsea: 0.42 [shots-on-target: 204, goals: 85]
+
+goals against:
+	Hull: 80

@@ -1,0 +1,29 @@
+SEASON-0910:
+
+standings:
+	1: Chelsea: 86 (71)
+	2: Man United: 85 (58)
+	3: Arsenal: 75 (42)
+	4: Tottenham: 70 (26)
+	5: Man City: 67 (28)
+	6: Aston Villa: 64 (13)
+	7: Liverpool: 63 (26)
+	8: Everton: 61 (11)
+	9: Birmingham: 50 (-9)
+	10: Blackburn: 50 (-14)
+	11: Stoke: 47 (-14)
+	12: Fulham: 46 (-7)
+	13: Sunderland: 44 (-8)
+	14: Bolton: 39 (-25)
+	15: Wolves: 38 (-24)
+	16: Wigan: 36 (-42)
+	17: West Ham: 35 (-19)
+	18: Burnley: 30 (-40)
+	19: Hull: 30 (-41)
+	20: Portsmouth: 28 (-32)
+
+efectiveness:
+	Man City: 0.29 [shots-on-target: 252, goals: 73]
+
+goals against:
+	Burnley: 82
