@@ -6,7 +6,7 @@ The ETL process corresponds to a program developed in Python, which reads each o
 ## Running the program
 To run the program, Python version 3 is required and you need to run:
 
-`python english_premier_league.py`
+`python src/english_premier_league.py`
 
 ## Results
 The results are written to files in an output folder. For each output-file, one per season, we have:
