@@ -11,6 +11,7 @@ To run the program, Python version 3 is required and you need to run:
 where data is the data folder. Also, you can execute the script running:
 
 `cd src`
+
 `python english_premier_league.py ../data`
 
 ## Results
