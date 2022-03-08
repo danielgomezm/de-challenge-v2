@@ -11,5 +11,5 @@ To run the program, Python version 3 is required and you need to run:
 ## Results
 The results are written to files in the output folder. For each output-file, one per season, we have:
 - **standings**: the standings for each team of the season, presenting place, team, points and goal difference.
-- **efectiveness**: the ratio between shots on goal and goals scored.
+- **efectiveness**: the team with the best ratio of shots on goal finishing in goal.
 - **goals against**: the team with the most goals against.
