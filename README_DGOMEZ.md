@@ -8,11 +8,7 @@ To run the program, Python version 3 is required and you need to run:
 
 `python src/english_premier_league.py data`
 
-where data is the data folder. Also, you can execute the script running:
-
-`cd src`
-
-`python english_premier_league.py ../data`
+where data-folder is the data folder.
 
 ## Results
 The results are written to files in the output folder. For each output-file, one per season, we have:
